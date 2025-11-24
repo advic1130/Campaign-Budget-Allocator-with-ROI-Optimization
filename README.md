@@ -14,7 +14,7 @@ An intelligent Python agent that analyzes historical ROI by channel, retrieves i
 ## 🛠️ Installation
 
 # Clone the repository
-git clone https://github.com/advic1130/marketing-optimization-agent.git
+git clone https://github.com/advic1130/Campaign-Budget-Allocator-with-ROI-Optimization.git
 cd marketing-optimization-agent
 
 # Install dependencies
